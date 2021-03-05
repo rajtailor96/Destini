@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Destini-iOS13
 //
-//  Created by Angela Yu on 08/08/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Raj Tailor on 03/04/2021.
+//  Copyright © 2021 Raj Tailor. All rights reserved.
 //
 
 import UIKit
